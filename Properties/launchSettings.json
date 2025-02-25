@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PracticeWork1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\shest\\Desktop\\ПКИС\\test_data.txt пример"
+    }
+  }
+}
